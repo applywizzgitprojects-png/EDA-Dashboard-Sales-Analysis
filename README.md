@@ -11,18 +11,7 @@ Exploratory Data Analysis (EDA): Uncovering patterns, trends, and insights from 
 Interactive Dashboard: Developed using Streamlit, featuring filters and Key Performance Indicators (KPIs).
 
 Business Insights: Analyzing sales, profit, product categories, and regional performance.
-GitHub
-+5
-GitHub
-+5
-Medium
-+5
-Medium
-+3
-GitHub
-+3
-GitHub
-+3
+
 
 🔧 Technologies Used
 
@@ -35,16 +24,6 @@ Data Visualization: Matplotlib, Seaborn, Plotly
 Dashboard Development: Streamlit
 GitHub
 
-📁 Project Structure
-├── E-Commerce-Sales-Analysis/
-│   ├── data/
-│   │   └── sales_data.csv
-│   ├── notebooks/
-│   │   └── EDA.ipynb
-│   ├── dashboard/
-│   │   └── app.py
-│   └── requirements.txt
-└── README.md
 
 
 data/: Contains the raw dataset (sales_data.csv).
@@ -88,6 +67,7 @@ Incorporate machine learning models for sales forecasting.
 Add more granular filters, such as time-based filters (monthly, quarterly).
 
 Enhance the dashboard UI/UX for better user experience.
+
 
 
 
